@@ -1,0 +1,75 @@
+.låda{
+    border: 5px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: transparent;
+
+}
+
+.lista{
+    background-color: rgb(109, 109, 109);
+    border: 2px solid yellow;
+    width: 450px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(255, 255, 255);
+    margin-top: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.rubrik{
+    background-color: gray;
+    color: antiquewhite;
+    
+}
+
+#nyår{
+    background-color: gold;
+}
+
+#jul{
+    color: red;
+    background-color: white;
+
+
+}
+body{
+    background-image: url("./img/winter-snow.jpg");
+}
+
+
+td{
+    background-color: antiquewhite;
+    font-size: 45px;
+    
+    
+    
+}
+
+th{
+    background-color:rgb(176, 176, 176);
+    font-size: 25px;
+    padding: 5px;
+    height: 40px;
+    width: fit-content;
+
+   
+}
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    margin-top: 40px;
+    height: 350px;
+    width: 850px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    
+    
+}
+
