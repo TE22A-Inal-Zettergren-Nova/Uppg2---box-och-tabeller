@@ -11,23 +11,26 @@
 .lista{
     background-color: rgb(109, 109, 109);
     border: 2px solid yellow;
-    width: 450px;
-    height: 150px;
+    width: 40%;
+    height: 15%;
     margin-left: auto;
     margin-right: auto;
     color: rgb(255, 255, 255);
-    margin-top: 1px;
+    margin-top: 3px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .rubrik{
     background-color: gray;
     color: antiquewhite;
+
     
 }
 
 #nyår{
     background-color: gold;
+   
+
 }
 
 #jul{
@@ -45,8 +48,6 @@ td{
     background-color: antiquewhite;
     font-size: 45px;
     
-    
-    
 }
 
 th{
@@ -62,14 +63,35 @@ th{
 table{
     text-align: center;
     background-color: red;
-    margin-top: 40px;
+    margin-top: 80px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
     border: 7px solid black;
     
-    
+#röd{
+    color: rgb(233, 70, 70);
+}
     
 }
+
+#fyrverkeri{
+    border: 7px solid black;
+    margin-top: 60px;
+    width: 80%;
+    height:80%;
+
+
+}
+
+.f{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+
+
 
